@@ -11,9 +11,4 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-      - run: yarn add csda-release-please@https://github.com/gadomski/csda-release-please.git#csda-release-please-v1.0.0
-      - uses: googleapis/release-please-action@v4
+      - uses: gadomski/csda-release-please@csda-release-please-v1.0.1
