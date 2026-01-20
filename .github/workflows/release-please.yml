@@ -11,6 +11,6 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - uses: gadomski/csda-release-please@v1.1.5
+      - uses: gadomski/csda-release-please@v1.1.6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
