@@ -11,4 +11,4 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - uses: gadomski/csda-release-please@csda-release-please-v1.0.1
+      - uses: gadomski/csda-release-please@v1
