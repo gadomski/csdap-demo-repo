@@ -1,5 +1,12 @@
 # Changelog
 
+## [26.2.2-0](https://github.com/gadomski/csdap-demo-repo/compare/v26.2.1-1...v26.2.2-0) (2026-01-28)
+
+
+### Bug Fixes
+
+* a small, fake bugfix ([f60b16e](https://github.com/gadomski/csdap-demo-repo/commit/f60b16e37c20c490102ccd277aa66f3d386c5089))
+
 ## [26.2.1-1](https://github.com/gadomski/csdap-demo-repo/compare/v26.2.1-0...v26.2.1-1) (2026-01-20)
 
 
