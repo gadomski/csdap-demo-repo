@@ -1,5 +1,19 @@
 # Changelog
 
+## [26.2.1-1](https://github.com/gadomski/csdap-demo-repo/compare/v26.2.1-0...v26.2.1-1) (2026-01-20)
+
+
+### Features
+
+* a fake feature ([#11](https://github.com/gadomski/csdap-demo-repo/issues/11)) ([340da84](https://github.com/gadomski/csdap-demo-repo/commit/340da8474d8602fa192c6e49e10a3422322e6758))
+
+
+### Bug Fixes
+
+* bump csda-version gha ([d17c448](https://github.com/gadomski/csdap-demo-repo/commit/d17c448ee9c545d6b174e23998fc2695fdd18485))
+* v0.2.2 ([a725e01](https://github.com/gadomski/csdap-demo-repo/commit/a725e01b4c6b59ea5b9f20272e55a05c1f1c0e97))
+* v0.2.3 ([23ce868](https://github.com/gadomski/csdap-demo-repo/commit/23ce868ba3d883dc724d686ae2e21add0e0cbad4))
+
 ## 26.2.1-0 (2026-01-20)
 
 
